@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 # Multiple_Disease_Prediction
-=======
+==============================
 # Multiple Disease Prediction System WebApp
 This repository contains a Multiple Disease Prediction System WebApp developed using Streamlit and hosted on Streamlit Cloud. The web app integrates four different disease prediction systems, each utilizing machine learning models to provide accurate predictions. The diseases covered are:
 
@@ -154,6 +153,6 @@ This Multiple Disease Prediction System WebApp provides an easy-to-use interface
 Contributions are welcome! If you have any suggestions or improvements, please create a pull request or open an issue.
 
 # Contact
-If you have any questions or suggestions, feel free to contact me at thanigaivelan2004@gmail.com
+If you have any questions or suggestions, feel free to contact me at sidharths2033@gmail.com.
 
 
